@@ -1,5 +1,5 @@
 # ⭐ Project - Rock Paper Scissors ⭐
-🔗 [Project Link](https://rock-paper-and-scissor.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://rocks-papers-scissors.vercel.app/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
