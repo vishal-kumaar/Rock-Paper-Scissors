@@ -1,7 +1,7 @@
 # ⭐ Project - Rock Paper Scissors ⭐
-🔗 [Project Link](https://rocks-papers-scissors.vercel.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Rock-Paper-Scissors/ "Click me") <br>
 
-This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
+This is a javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
 <br>
 
@@ -28,7 +28,7 @@ This is javascript project given in the **Ineuron's Full Stack JavaScript Develo
 
 <br>
 
-> Time taken to build this project is 2 hrs and I really enjoyed it 😎.
+> The time taken to build this project is 2 hours and I really enjoyed it 😎.
 
 <br>
 
@@ -39,4 +39,4 @@ This is javascript project given in the **Ineuron's Full Stack JavaScript Develo
 
 ## 🙌 Acknowledgements:
 
-I am thankful to **Hitesh Choudhary sir**, **Anurag Tiwari sir** and **iNeuron team** for this amazing bootcamp.
+I am thankful for **Hitesh Choudhary sir**, **Anurag Tiwari sir**, and **iNeuron team** for this amazing Bootcamp.
